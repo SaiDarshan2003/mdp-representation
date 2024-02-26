@@ -47,6 +47,9 @@ The robot takes forward movemnt to go from start state to forward state.
 
 ## PYTHON REPRESENTATION
 ```
+Sai Darshan G
+212221240047
+
 robot_mdp = {
     0: {
         1: [(0.85, 1, 0, False), (0.15, 0, 0, False)],
