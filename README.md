@@ -29,10 +29,10 @@ The robot takes forward movemnt to go from start state to forward state.
 0 otherwise
 
 ### Graphical Representation
-![WhatsApp Image 2024-02-26 at 22 49 11_d2fc9b06](https://github.com/SaiDarshan2003/mdp-representation/assets/94692595/a0e8364d-4023-426c-8046-c7c8bdcdcd48)
+![WhatsApp Image 2024-02-26 at 22 49 11_36a48635](https://github.com/SaiDarshan2003/mdp-representation/assets/94692595/774f3688-3c0d-4438-95b6-9e72eaf041d0)
 
 
-## PYTHON REPRESENTATION:  
+## PYTHON REPRESENTATION
 ```
 robot_mdp = {
     0: {
@@ -54,10 +54,10 @@ robot_mdp = {
 }
 ```
 
-## OUTPUT:
+## OUTPUT
 ![image](https://github.com/SaiDarshan2003/mdp-representation/assets/94692595/4a8bc45d-eacc-44b7-8c43-132556274074)
 
 
-## RESULT:
+## RESULT
 Above, We have represented an MDP problem in textual,graphical and ina technical manner successfully.
 
