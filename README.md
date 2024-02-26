@@ -59,5 +59,5 @@ robot_mdp = {
 
 
 ## RESULT
-Above, We have represented an MDP problem in textual,graphical and ina technical manner successfully.
+Above, We have represented an MDP problem in a textual,graphical and technical manner successfully.
 
