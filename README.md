@@ -42,8 +42,7 @@ The robot takes forward movemnt to go from start state to forward state.
 
 ### Graphical Representation
 
-![WhatsApp Image 2024-02-26 at 22 49 11_36a48635](https://github.com/SaiDarshan2003/mdp-representation/assets/94692595/774f3688-3c0d-4438-95b6-9e72eaf041d0)
-
+![image](https://github.com/SaiDarshan2003/mdp-representation/assets/94692595/9859006b-d4d0-47c8-a8bf-dd8a4890ce6a)
 
 ## PYTHON REPRESENTATION
 ```
