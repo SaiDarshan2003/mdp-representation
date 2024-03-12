@@ -71,7 +71,7 @@ robot_mdp = {
 
 ## OUTPUT
 
-![image](https://github.com/SaiDarshan2003/mdp-representation/assets/94692595/4a8bc45d-eacc-44b7-8c43-132556274074)
+![image](https://github.com/SaiDarshan2003/mdp-representation/assets/94692595/46a87664-5efc-4304-9dba-38cf923322c6)
 
 
 ## RESULT
