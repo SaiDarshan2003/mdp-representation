@@ -1,5 +1,3 @@
-# MDP REPRESENTATION
-
 ## AIM
 
 To represent a Markov Decision Process(MDP) problem.
@@ -13,11 +11,8 @@ A robotic agent is tasked with navigating through an environment. The agent begi
 ### State Space
 
 S (Starting point): 0
-
 M (Moving forward): 1
-
 T (Targeted location): 2
-
 O (Encountering obstacle): 3
 
 ### Sample State:
@@ -27,7 +22,6 @@ In the event of moving backward from the start position the robot will face an o
 ### Action Space
 
 F (Forward movement): 1
-
 B (Backward movement): 2
 
 ### Sample Action
@@ -37,7 +31,6 @@ The robot takes forward movemnt to go from start state to forward state.
 ### Reward Function
 
 +1 if the agent reaches the targeted location (T)
-
 0 otherwise
 
 ### Graphical Representation
@@ -48,7 +41,6 @@ The robot takes forward movemnt to go from start state to forward state.
 ```
 Sai Darshan G
 212221240047
-
 robot_mdp = {
     0: {
         1: [(0.85, 1, 0, False), (0.15, 0, 0, False)],
